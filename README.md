@@ -22,4 +22,4 @@ The file has following functions:
 
 ###### ($filename - The actual filename with the path. The folder should have read permissions.)
 
-The usage is very simple and has been included as demos. The Demos have been included as tests along with the type of file needed for all tests.
+The usage is very simple and has been included as demos. The Demos have been included as tests (not unit tests) along with the type of file needed for all tests.
